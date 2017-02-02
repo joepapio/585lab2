@@ -18,7 +18,7 @@ head(movies)
 
 
 
-```{r cars}
+```{r Q1}
 summary(cars)
 ```
 
@@ -26,14 +26,16 @@ summary(cars)
 
 
 
-```{r pressure, echo=FALSE}
-plot(pressure)
+```{r Q2}
+
 ```
 
 ###What is the standard trajectory of a movie's total gross? Draw a plot and label some of the trajectories.
 
 
 
-```{r pressure, echo=FALSE}
-plot(pressure)
+```{r Q3}
+
+
+
 ```
